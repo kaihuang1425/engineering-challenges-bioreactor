@@ -1,0 +1,19 @@
+{
+ "timestamp": "2026-11-18T12:00:01.000Z",
+ "measured": {
+   "temperature_c": 36.92,
+   "rpm": 318.7,
+   "ph": 6.98
+ },
+ "setpoints": {
+   "temperature_c": 37.0,
+   "rpm": 320,
+   "ph": 7.0
+ },
+ "actuators": {
+   "heater_pwm": 0.40,
+   "motor_pwm": 0.52,
+   "acid_pump_ms": 0,
+   "base_pump_ms": 0
+ }
+}
